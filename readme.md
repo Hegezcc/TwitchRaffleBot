@@ -78,7 +78,7 @@ Lataamalla Botin, sitoudut automattisesti noudattamaan näitä ehtoja.
 <br>Mikäli nämä ehdot eivät sovi teille, voitte perua sitoutumisenne poistamalla kaikki projektin kopiot.
 <br>Sinun TULEE lisätä tämä kohta oman muunnelmasi mukana, ilman muutoksia.
 <br><br>
-#####Ehdot
+##### Ehdot
 (Mitä saat tehdä, ja mitä et.)
 <br>Sinulla on oikeus:
 * Käyttää Bottia omalla kanavallasi
