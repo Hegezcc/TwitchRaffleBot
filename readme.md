@@ -39,7 +39,7 @@ Komennot:
 
 ## Asennus
 
-- 1: Lataa [Node]("https://nodejs.org/en/")
+- 1: Lataa [Node](https://nodejs.org/en/)
 
 - 2: Lataa tämä projekti.
 >    - Omalle koneelle, tai palvelimelle. Muista tallennussijanti.
@@ -52,7 +52,7 @@ Komennot:
 >   - const botusername = "nimi";
 >       - Laita tähän botin käyttäjänimi, botilla oltava siis käyttäjä Twitchissä.
 >   - const secretKey = "oauth:avain";
->       - Tähän tulee botin oauth avain.<br>Voit generoida sellaisen [tästä]("https://twitchapps.com/tmi/").
+>       - Tähän tulee botin oauth avain.<br>Voit generoida sellaisen [tästä](https://twitchapps.com/tmi/).
 >   - const botadmins = ["nimi"];
 >       - Tässä määrität kuka saa käyttää botin Admin komentoja.
 >   - const prefix = "%";
