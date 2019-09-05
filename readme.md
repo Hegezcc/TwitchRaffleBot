@@ -1,7 +1,7 @@
-#Tentin Twitch Arvonta Botti
+# Tentin Twitch Arvonta Botti
 >Luoja: TenDRILLL 2019, Ten#0010
 
-##Tietoja
+## Tietoja
 Botti on kirjoitettu _Javascript_ -koodikielellä, hyötykäyttäen Node runtime-ympäristöä.
 <br>Botin pääasiallinen tehtävä on valita satunnainen voittaja arvontaan osallistuneista.
 <br>Toimiakseen botti tarvitsee seuraavia pakkauksia:
@@ -12,10 +12,10 @@ Botti on kirjoitettu _Javascript_ -koodikielellä, hyötykäyttäen Node runtime
     
 Lisää aiheesta kohdassa Asennus.
 
-####Osallistujat
+#### Osallistujat
 >TenDRILLL - Botin kehittäjä.
 
-##Toiminnot
+## Toiminnot
 Botti tällä hetkellä tukee vain arvontojen pitämistä siten,
 <br>että käyttäjät ilmoittavat osallistumisensa komennolla,
 <br>ja botti valitsee osallistuneista satunnaisen käyttäjän.
@@ -37,7 +37,7 @@ Komennot:
 > Tällä komennolla käyttäjät osallistuvat arvontaan.
 <br>HUOM! Ennen komennon käyttämistä arvonnan tulee olla käynnissä.
 
-##Asennus
+## Asennus
 
 - 1: Lataa [Node]("https://nodejs.org/en/")
 
@@ -61,7 +61,7 @@ Komennot:
 > - Käynnistäminen tapahtuu käyttämällä komentoa ``node Main.js``.
 >   - Tätäkin komentoa käytetään komentosarjakehoitteessa (cmd).  
 
-##Lisenssi
+## Lisenssi
 TenDRILLL 2019
 <br>05.09.2019
 
@@ -69,11 +69,11 @@ Tämä kohta tarkentaa käyttäjälle mitä koodilla saa, ja mitä ei saa tehdä
 
 TenDRILLL varaa kaikki oikeudet evätä kohdassa mainitut etuudet, mikäli ehtoja ei noudateta.
 <br><br>
-#####Määritelmät
+##### Määritelmät
 TenDRILLL: TenDRILLL/Ten#0010, Botin alkuperäinen koodaaja.
 <br>Botti: Tämä projekti.
 <br><br>
-#####Ennen lataamista
+##### Ennen lataamista
 Lataamalla Botin, sitoudut automattisesti noudattamaan näitä ehtoja.
 <br>Mikäli nämä ehdot eivät sovi teille, voitte perua sitoutumisenne poistamalla kaikki projektin kopiot.
 <br>Sinun TULEE lisätä tämä kohta oman muunnelmasi mukana, ilman muutoksia.
@@ -90,7 +90,7 @@ Lataamalla Botin, sitoudut automattisesti noudattamaan näitä ehtoja.
 <br>joita käyttäjä mahdollisesti tahtoisi Bottiin tulevan.
 <br><br>
 
-#####Tiivistelmä
+##### Tiivistelmä
 Liitä nämä ehdot mukaan, mikäli teet Botista oman versiosi.
 <br>Paranna koodia, tai tee ehdotuksia "Pull Requesteilla",
 <br>niin pääset Osallistujat kohtaan :)
