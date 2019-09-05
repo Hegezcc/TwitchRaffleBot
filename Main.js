@@ -11,11 +11,11 @@ const prefix = "%";                                         //Botin prefix t채h�
 const Bot = new BotLib({
     username: botusername,
     oauth: secretKey,
-    channels: ["sekasingaming"] //Laita t채h채n kanavan nimi, jonne botin tahdot.
+    channels: [""] //Laita t채h채n kanavan nimi, jonne botin tahdot.
 });
 
 Bot.db = new Enmap({name: "database"});
-Bot.channelName = "sekasingaming"; //Laita t채h채n kanavan nimi, jonne botin tahdot.
+Bot.channelName = ""; //Laita t채h채n kanavan nimi, jonne botin tahdot.
 
 Bot.on("connected", ()=>{
     console.log("Connected to Twitch IRC!");
