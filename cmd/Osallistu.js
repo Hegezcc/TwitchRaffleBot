@@ -7,7 +7,7 @@ class Osallistu{
     getName(){return this.name;}
 
     run(Bot,author,args){
-        let db = Bot.db.get("sekasingaming");
+        let db = Bot.db.get(Bot.channelName);
         if(this.isAdminCmd){
             if(!db.admins.includes(author.username)){
                 return Bot.say("Sinulla ei ole tarvittavia oikeuksia suorittaa tätä toimintoa :(");
