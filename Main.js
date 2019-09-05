@@ -3,8 +3,8 @@ const CommandIndex = require("./cmd/CommandIndex.js");
 const Enmap = require("enmap");
 
 //Määritettävät arvot
-const botusername = "tenbot";                               //Laita tähän botin käyttäjänimi, botilla oltava siis käyttäjä Twitchissä.
-const secretKey = "oauth:64dr0zgte1fto2ach5r2r9llse0crl";   //Tähän tulee botin oauth avain. Voit generoida sellaisen https://twitchapps.com/tmi/
+const botusername = "";                               //Laita tähän botin käyttäjänimi, botilla oltava siis käyttäjä Twitchissä.
+const secretKey = "";   //Tähän tulee botin oauth avain. Voit generoida sellaisen https://twitchapps.com/tmi/
 const botadmins = ["tendrilll","insert_twitch_name_here"];  //Botin adminien usernamet tähän.
 const prefix = "%";                                         //Botin prefix tähän, botti ignoraa viestit jotka eivät ala tällä.
 
